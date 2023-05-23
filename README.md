@@ -23,5 +23,3 @@ yes you can do what you want with this project
 ## Image:
 ![This is an image](https://raw.githubusercontent.com/max21910/PasswordGenerator/main/assets/images/header/header-hero.png)
 
-![This is an image](https://raw.githubusercontent.com/max21910/PasswordGenerator/main/assets/images/header/1.png)
-![This is an image](https://raw.githubusercontent.com/max21910/PasswordGenerator/main/assets/images/header/2.png)
