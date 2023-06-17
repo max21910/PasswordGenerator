@@ -22,4 +22,20 @@ yes you can do what you want with this project
 `*V1.0 Initial released. `
 ## Image:
 ![This is an image](https://raw.githubusercontent.com/max21910/PasswordGenerator/main/assets/images/header/header-hero.png)
+## Remarque
+
+ N'hésitez pas à contribuer au projet en soumettant des pull requests ou en signalant des problèmes. Toute contribution est la bienvenue !
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/max21160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="max21160" height="30" width="40" /></a>
+<a href="https://instagram.com/maxime_dpj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxime_dpj" height="30" width="40" /></a>
+<a href="https://medium.com/max21160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="max21160" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/max_studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="max_studio" height="30" width="40" /></a>
+</p>
+
+
+
 
