@@ -20,8 +20,7 @@ yes you can do what you want with this project
 ## Update :
 
 `*V1.0 Initial released. `
-## Image:
-![This is an image](https://raw.githubusercontent.com/max21910/PasswordGenerator/main/assets/images/header/header-hero.png)
+
 ## Remarque
 
  N'hésitez pas à contribuer au projet en soumettant des pull requests ou en signalant des problèmes. Toute contribution est la bienvenue !
